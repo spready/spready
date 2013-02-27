@@ -1,0 +1,13 @@
+.row.full-width
+  .two.columns: aside
+    .row
+      .twelve.columns.text-right: h3#logo = name
+    .row: .twelve.columns
+      nav: ul.text-right
+        li: a href="#/today" Today
+        li: a href="#/older" Older
+        li: a href="#/new" New
+  .five.columns.ng-view
+  .five.columns
+
+= index_template

@@ -1,0 +1,8 @@
+= Spready
+
+Spready. A better way to forum.
+
+= Install
+
+
+This project rocks and uses MIT-LICENSE.
